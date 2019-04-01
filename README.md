@@ -2,6 +2,25 @@
 
 The script `make_trajectory_netcdf.py` creates a CF-compliant trajectory NetCDF file from an input file.
 
+## Install
+
+Create the onda environment:
+
+```bash
+conda env create -f environment.yml
+```
+
+Or, install requirements from pip:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or, install `pocean-core` into your current conda environment:
+
+```bash
+conda install -c axiom-data-science pocean-core
+```
 
 ## Usage
 
