@@ -1,0 +1,46 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+bzip2=1.0.6=h1de35cc_1002
+ca-certificates=2019.3.9=hecc5488_0
+certifi=2019.3.9=py37_0
+cftime=1.0.3.4=py37h917ab60_1000
+curl=7.64.1=h22ea746_0
+geos=3.7.1=h0a44026_1000
+hdf4=4.2.13=hf3c6af0_1002
+hdf5=1.10.4=nompi_h0cbb7df_1106
+jpeg=9c=h1de35cc_1001
+krb5=1.16.3=hcfa6398_1001
+libblas=3.8.0=4_openblas
+libcblas=3.8.0=4_openblas
+libcurl=7.64.1=h16faf7d_0
+libcxx=4.0.1=hcfea43d_1
+libcxxabi=4.0.1=hcfea43d_1
+libedit=3.1.20170329=hcfe32e1_1001
+libffi=3.2.1=h6de7cb9_1006
+libgfortran=3.0.1=0
+liblapack=3.8.0=4_openblas
+libnetcdf=4.6.2=h6b88ef6_1001
+libssh2=1.8.2=hcdc9a53_2
+ncurses=6.1=h0a44026_1002
+netcdf4=1.5.0=py37h58b02fa_0
+numpy=1.16.2=py37hbb3c62a_1
+openblas=0.3.5=h436c29b_1001
+openssl=1.1.1b=h01d97ff_2
+pandas=0.24.2=py37h0a44026_0
+pip=19.0.3=py37_0
+pocean-core=1.6.0=py_0
+pygc=1.2.1=py_1
+python=3.7.3=h0d93f26_0
+python-dateutil=2.8.0=py_0
+pytz=2018.9=py_0
+readline=7.0=hcfe32e1_1001
+setuptools=40.8.0=py37_0
+shapely=1.6.4=py37h4b8df73_1003
+simplejson=3.16.0=py37h1de35cc_1002
+six=1.12.0=py37_1000
+sqlite=3.26.0=h1765d9f_1001
+tk=8.6.9=ha441bb4_1001
+wheel=0.33.1=py37_0
+xz=5.2.4=h1de35cc_1001
+zlib=1.2.11=h1de35cc_1004
